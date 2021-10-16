@@ -1,6 +1,5 @@
 {
   "features": {
-
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true,
